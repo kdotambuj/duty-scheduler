@@ -1,0 +1,2 @@
+export const PORT = 8000;
+export const MONGOURL = 'mongodb://root:root@ac-f77li8u-shard-00-00.juug0zw.mongodb.net:27017,ac-f77li8u-shard-00-01.juug0zw.mongodb.net:27017,ac-f77li8u-shard-00-02.juug0zw.mongodb.net:27017/?ssl=true&replicaSet=atlas-odlmeg-shard-0&authSource=admin&retryWrites=true&w=majority'
